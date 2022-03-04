@@ -6,5 +6,6 @@
         }
     ],
     "namespace": "",
-    "sourceApiVersion": "52.0"
+    "sourceApiVersion": "52.0",
+    "sfdcLoginUrl": "https://resourceful-koala-vwpjwx-dev-ed.my.salesforce.com"
 }
